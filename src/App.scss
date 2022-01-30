@@ -1,0 +1,17 @@
+.container{
+    margin-top: 20px;
+}
+.App{
+    background-color: #212529;
+    min-height: 100vh;
+
+    #button-add{
+        background-color: #35383b;
+        color: white;
+        outline: solid white 3px;
+    }
+
+    #input-task{
+        outline: solid white 3px;
+    }
+}
